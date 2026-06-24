@@ -1,5 +1,12 @@
 # TELCO Network Project — Work-Integrated Learning (WIL)
 
+![Networking](https://img.shields.io/badge/Networking-Telecommunications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Topology](https://img.shields.io/badge/Design-Three--Tier%20Hierarchy-orange?style=for-the-badge)
+![Program](https://img.shields.io/badge/Programme-Work--Integrated%20Learning-007749?style=for-the-badge)
+
+> Design and planning of a telecommunications network: full documentation, a hierarchical
+> topology diagram, and a formal project report produced during industry placement.
+
 ## Overview
 This Work-Integrated Learning (WIL) project covers the design and planning of a telecommunications network infrastructure. It includes full project documentation, a network topology diagram, and a formal project report produced as part of practical industry experience.
 
@@ -24,7 +31,7 @@ Produced as part of the Work-Integrated Learning (WIL) programme, this project r
 
 ## Network Topology Diagram
 
-**WIL_TOPOLOGY (2).png**
+![Network Topology Diagram](WIL_TOPOLOGY%20%282%29.png)
 
 This diagram is titled "Advanced Enterprise Networking Project - Nelson Tech" and presents a comprehensive hierarchical network topology for a multi-floor enterprise environment. The design demonstrates a three-tier network architecture consisting of core, distribution, and access layers.
 
