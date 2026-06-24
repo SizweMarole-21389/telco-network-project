@@ -1,4 +1,4 @@
-# TELCO Network Project — Work-Integrated Learning (WIL)
+# TELCO Network Project - Work-Integrated Learning (WIL)
 
 ![Networking](https://img.shields.io/badge/Networking-Telecommunications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Topology](https://img.shields.io/badge/Design-Three--Tier%20Hierarchy-orange?style=for-the-badge)
